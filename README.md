@@ -22,7 +22,7 @@ The user is going to be given only the first part of the test description - the 
 
 ### Weather API
 
-Create a weather app that allows me to query for a specific city and obtain either [its currente weather](https://openweathermap.org/current) or [the forecast for the next 5 days](https://openweathermap.org/forecast5). It is important to recommend the user to register to the service ASAP, as the activation of the account can take a few minutes; emphasis need to be put also on displaying the results.
+Create a weather app that allows me to query for a specific city and obtain either [its current weather](https://openweathermap.org/current) or [the forecast for the next 5 days](https://openweathermap.org/forecast5). It is important to recommend the user to register to the service ASAP, as the activation of the account can take a few minutes; emphasis need to be put also on displaying the results.
 
 *Question about disambiguating location and handling errors.*
 
